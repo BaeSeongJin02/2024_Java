@@ -1,0 +1,11 @@
+package bsj.sec02.exam03;
+//익명 객체의 로컬 변수의 사용
+public class AnonymousExample {
+
+	public static void main(String[] args) {
+		Anonymous anony = new Anonymous();
+		anony.method(0,0);
+
+	}
+
+}

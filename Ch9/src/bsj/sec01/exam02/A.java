@@ -1,5 +1,6 @@
 package bsj.sec01.exam02;
 
+//바깥필드와 메소드에서 사용제한
 public class A {
 	//인스턴스 필드
 	B field1 = new B();
@@ -26,8 +27,5 @@ public class A {
 	
 	//정적 멤버 클래스
 	static class C{}
-	
-	
-	
-	
+
 }
